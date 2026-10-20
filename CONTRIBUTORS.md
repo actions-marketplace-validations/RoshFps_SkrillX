@@ -1,5 +1,8 @@
 # Contributors
 
+Thanks to everyone who improves the Proof checks, documentation, workflows, and
+examples.
+
 ## Maintainer
 
 - [Roshan Immanuel](https://github.com/RoshFps) — project owner and maintainer.
